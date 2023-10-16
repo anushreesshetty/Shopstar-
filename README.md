@@ -1,9 +1,5 @@
-# Inferno Online Clothing Store
+# Shopstar An Ecommerce Clothing Store Website
 
-Shopstar
-
-
-An Ecommerce Clothing Store Website
 
 
 ## Features
@@ -13,6 +9,8 @@ An Ecommerce Clothing Store Website
 3. Search Products
 4. Products Add to Cart
 5. Customer Profile Page
+6. Newsletter Subscription Form
+7. Contact Form
 
 ### Front-End Development
 
@@ -22,10 +20,6 @@ HTML, CSS, JQuery and Bootstrap
 
 Implemented using PHP and integrated with MySQLi database for storing data
 
-### Sliders
 
-owl.carousel.js used for creating products sliders
 
-### Icons
 
-Font Awesome and Elegent Icons
